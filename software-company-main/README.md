@@ -5,5 +5,5 @@ This is our new company website.
 
 ## DEMO
 
-See DEMO [here](https://lauratejada.github.io/software-company/)
+See DEMO [here](https://github.com/etosconsult/etosindia.git)
 
