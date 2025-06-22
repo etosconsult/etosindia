@@ -5,5 +5,5 @@ This is our new company website.
 
 ## DEMO
 
-See DEMO [here](https://etosconsult.github.io/etosindia/software-company/)
+See DEMO [here](https://etosconsult.github.io/etosindia/)
 
